@@ -8,5 +8,8 @@
     "start": "node ./main.js"
   },
   "author": "Aleksandr",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
